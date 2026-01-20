@@ -6,3 +6,7 @@
 ## customer segmentation
 ---
 ## Kemans Algorithm Apply 
+---
+
+
+**Student Dataset Practies**
