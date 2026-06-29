@@ -1,9 +1,9 @@
-## Unsupervised Learning Practies Code implementation
+# Unsupervised Learning Practies Code implementation
 
 
 ### customer segmentation
 ---
-## Kemans Algorithm Apply 
+### Kemans Algorithm Apply 
 ---
 
 
