@@ -1,5 +1,3 @@
-
-
 ## Unsupervised Learning Practies Code implementation
 
 
@@ -10,3 +8,4 @@
 
 
 **Student Dataset Practies**
+# practices on dataset
